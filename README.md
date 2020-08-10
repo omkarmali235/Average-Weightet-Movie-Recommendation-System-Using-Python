@@ -43,7 +43,7 @@ $ python index.py
 
 ### Examples
 #### *When the application Starts?*
-![](/First Window.png)
+![](/FirstWindow.png)
 
 
 #### *Recommendations to the Iron Man Movie?*
