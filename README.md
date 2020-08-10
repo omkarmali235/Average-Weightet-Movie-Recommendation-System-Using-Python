@@ -1,6 +1,6 @@
-# song-recommeder
-> *"A simple song recommender using python and GUI using Tkinter."*
-
+# Movie Recommender System
+> *"A simple Movie recommender using python and GUI using Tkinter. I used Average Weighted Recommender System which is calculated as above "*
+![](/formula.png)
 ## Table of Contents
 * [Installation](#installation)
 * [Data](#data)
