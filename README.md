@@ -49,7 +49,9 @@ $ python index.py
 #### *Recommendations to the Iron Man Movie.*
 ![](/Reccomendation.png)
 
-#### Project Owner
-# 1.Omkar Pradip Mali
-# 2.Srushti Dhanyakumar Mandape 
+### Project Owner
+##### 1.Omkar Pradip Mali-
+##### 2.Srushti Dhanyakumar Mandape 
 
+### Follow us in linkedIN
+#### Omkar -www.linkedin.com/in/omkar-mali-opm
