@@ -42,12 +42,14 @@ $ python index.py
 ![](/Screenshots/GUI.png)
 
 ### Examples
-#### *When the application Starts?*
+#### *When the application Starts.*
 ![](/FirstWindow.png)
 
 
-#### *Recommendations to the Iron Man Movie?*
+#### *Recommendations to the Iron Man Movie.*
 ![](/Reccomendation.png)
 
-
+#### Project Owner
+# 1.Omkar Pradip Mali
+# 2.Srushti Dhanyakumar Mandape 
 
