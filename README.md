@@ -12,27 +12,24 @@
 
 Clone the base repository onto your desktop with `git` as follows:
 ```console
-$ git clone https://github.com/SwatiModi/song-recommeder.git
+$ git clone https://github.com/omkarmali235/Movie-Recommendation-System-Using-Python
 ```
 
-##### 2. Install necessary dependencies
-
-```console
-$ pip install -r requirements.txt
-```
+``
 
 ### Data 
 
-We will use subset of **Million Songs Dataset**. It is a mixture of songs from various websites with the rating that users gave after listening to the song.<br>
-It contains of two files, ***triplet_file.txt*** and ***song_data.csv***<br> 
-The ***triplet_file*** contains *user_id*, *song_id* and *listen count*<br>
-The ***songdata_file*** contains *song_id*, *title*, *release_by* and *artist_name*<br> 
+We will use subset of **5000 TMDB Dataset**. It is a mixture of movies from various websites with the rating that users gave after watching the movie.<br>
+It contains of two files, ***tmdb_5000_credits.csv*** and ***tmdb_5000_movies.csv***<br> 
+The ***tmdb_5000_credits.csv*** contains *movie_id*,*title*,*cast*,*crew*<br>
+The ***tmdb_5000_movies.csv*** contains *budget*,*genres*,*homepage*,*id*,*keywords*,*original_language*,*original_title*,*overview*,*popularity*,*production_companies*, *production_countries*,*release_date*,*revenue*,*runtime*,*spoken_languages*,*status*,*tagline*,*title*,*vote_average*,*vote_count*<br>
+<br> 
 
 Get the data as follows: 
 
 ```console
-$ wget https://static.turi.com/datasets/millionsong/10000.txt
-$ wget https://static.turi.com/datasets/millionsong/song_data.csv
+$ wget https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
 ```
 
 ### Usage
@@ -40,18 +37,17 @@ $ wget https://static.turi.com/datasets/millionsong/song_data.csv
 To launch the app, launch it as follows:
 
 ```console
-$ python app.py
+$ python index.py
 ```
 ![](/Screenshots/GUI.png)
 
 ### Examples
-#### *Whats Popular today?*
-![](/Screenshots/popularity_based_recommendations.png)
+#### *When the application Starts?*
+![](/First Window.png)
 
 
-#### *What about Content Based Recommendations?*
-![](/Screenshots/Content_based_recommendations.png)
+#### *Recommendations to the Iron Man Movie?*
+![](/Reccomendation.png)
 
 
-#### *How about Collaborative filtering based Recommendations ?*
-![](/Screenshots/Collaborative_filtering.png)
+
