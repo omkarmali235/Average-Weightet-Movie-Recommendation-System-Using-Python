@@ -180,7 +180,7 @@ def give_rec(title, sig=sig):
 from tkinter import *  
 import pandas as pd
 from sklearn.model_selection import train_test_split
-import Recommenders as Recommenders
+
 from tkinter import ttk
 from tkinter import messagebox
 
