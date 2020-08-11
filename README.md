@@ -51,7 +51,7 @@ $ python index.py
 ![](/Reccomendation.png)
 
 #### Owners
- 1.Omkar Pradip Mali
+ 1.Omkar Pradip Mali<br>
  2.Srushti Dhanyakumar Mandape 
 
 #### Follow us in linkedIN
