@@ -6,7 +6,7 @@
 * [Data](#data)
 * [Usage](#usage)
 * [Examples](#examples)
-
+* [Project Owners] (#Project Owners)
 ### Installation
 ##### 1. Download the repository
 
@@ -49,9 +49,9 @@ $ python index.py
 #### *Recommendations to the Iron Man Movie.*
 ![](/Reccomendation.png)
 
-### Project Owner
-##### 1.Omkar Pradip Mali-
-##### 2.Srushti Dhanyakumar Mandape 
+#### Project Owners
+ 1.Omkar Pradip Mali
+ 2.Srushti Dhanyakumar Mandape 
 
-### Follow us in linkedIN
-#### Omkar -www.linkedin.com/in/omkar-mali-opm
+#### Follow us in linkedIN
+ Omkar - www.linkedin.com/in/omkar-mali-opm
