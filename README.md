@@ -6,7 +6,8 @@
 * [Data](#data)
 * [Usage](#usage)
 * [Examples](#examples)
-* [Owners] (#Owners)
+* [Owners](#Owners)
+
 ### Installation
 ##### 1. Download the repository
 
